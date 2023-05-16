@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
+import com.example.springbootmysqlrediscache.springbootmysqlrediscache.model.Tutorial;
+import com.example.springbootmysqlrediscache.springbootmysqlrediscache.services.TutorialService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
